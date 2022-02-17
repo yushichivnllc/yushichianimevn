@@ -1,32 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-  <loc>https://yushichianimenewz.tk/</loc>
-  <lastmod>2022-02-02T07:27:59+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://yushichianimenewz.tk/index.html</loc>
-  <lastmod>2022-02-02T07:27:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yushichianimenewz.tk/tonghop1.html</loc>
-  <lastmod>2022-02-02T07:27:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yushichianimenewz.tk/tonghop.html</loc>
-  <lastmod>2022-02-02T07:27:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+   <url>
 
+      <loc>https://yushichianimenewz.tk/</loc>
+
+      <lastmod>2022-02-17</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://yushichianimenewz.tk/ten-trom-bi-an-kaitou-queen-wa-circus-ga-osuki.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://yushichianimenewz.tk/shuumatsu-no-harem-tap-5-ai-se-la-tiep-vien-moi-cua-reito-trong-worlds-end-harem.html</loc>
+
+      <lastmod>2004-12-23</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://yushichianimenewz.tk/tonghop.html</loc>
+
+      <lastmod>2004-12-23T18:00:15+00:00</lastmod>
+
+      <priority>0.3</priority>
+
+   </url>
+
+  
 
 </urlset>
