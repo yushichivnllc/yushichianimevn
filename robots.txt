@@ -2,6 +2,6 @@ User-agent: Googlebot
 Disallow: /nogooglebot/
 
 User-agent: *
-Allow: /seach
+Allow: /
 
 Sitemap: https://yushichianimenewz.tk/sitemap.xml
